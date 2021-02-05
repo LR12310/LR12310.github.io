@@ -1,0 +1,105 @@
+body {
+ 
+  margin: 0;
+  font-family: 'Ubuntu Mono', monospace;
+  background-color: #5CDB95
+  
+}
+
+.section {
+  padding: 75px;
+  margin: 0px;
+  color: #EDF5E1;
+  text-align: center;
+  background-color: #5CDB95
+}  
+
+#section-1, #section-2, #section-3 {
+  padding: 170px;
+}
+
+.theQuote {
+ margin-right: 15px;
+}
+
+
+p {
+  font-size: 30px;
+  
+}
+
+
+#topbar {
+  padding: 10px;
+  background: rgba(92, 219, 149, 0.6); 
+  /*background: rgba(237, 245, 225, 0.5);*/
+  position: fixed;
+  top: 0px;
+   width: 100%;
+   z-index: 10000;
+ 
+}
+
+.logo {
+  display: inline;
+  float: right;
+  padding-right: 20px;
+}
+
+
+.topbarItem {
+  display: inline;
+  text-align: left;
+  color: #05386B;
+  text-decoration:none; 
+  margin-left: 40px;
+  text-transform: uppercase;
+}
+
+
+
+#project {
+  float: left;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+#project2 {
+  float: right;
+ 
+  border-radius: 20px;
+}
+#projectDescription {
+  padding-top: 40px;
+  padding-left: 400px;
+}
+
+#projectDescription2 {
+  padding-top: 34px;
+  padding-right: 400px;
+}
+
+h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+#quotes {
+  background-color: #05386B;
+
+}
+
+.quoteMarks {
+  float: left;
+}
+
+.author {
+  color: #5CDB95;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+#project2 {
+  margin: 30px;
+}
+
