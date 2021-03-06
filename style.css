@@ -58,13 +58,13 @@ p {
 
 
 
-#project {
+#project, #project3 {
   float: left;
   border-radius: 20px;
   margin-top: 30px;
 }
 
-#project2 {
+#project2, #project4 {
   float: right;
  
   border-radius: 20px;
