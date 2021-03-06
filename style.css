@@ -76,13 +76,7 @@ p {
 
 }
 
-#project4 {
-  float: right;
-  padding-right: 150px;
-   border-radius: 20px;
 
-
-}
 
 #projectDescription {
   padding-top: 40px;
@@ -98,18 +92,12 @@ p {
 
 #projectDescription3 {
    padding-top: 40px;
-  padding-left: 400px;
+  padding-left: 300px;
   color: #EDF5E1;
  padding-right: 100px;
  
 }
 
-#projectDescription4 {
-  padding-top: 34px;
-  padding-right: 400px;
-  color: #EDF5E1;
- padding-left: 100px;
-}
 
 h1 {
   font-size: 40px;
