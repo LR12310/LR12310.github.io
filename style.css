@@ -58,29 +58,50 @@ p {
 
 
 
-#project, #project3 {
+#project {
   float: left;
   border-radius: 20px;
   margin-top: 30px;
 }
 
-#project2, #project4 {
+#project2 {
   float: right;
- 
   border-radius: 20px;
 }
-#projectDescription, #projectDescription3 {
+
+#project3 {
+  float: left;
+  border-radius: 20px;
+}
+
+#project4 {
+  float: right;
+  border-radius: 20px;
+}
+
+#projectDescription {
   padding-top: 40px;
   padding-left: 400px;
- padding-right: 300px;
   color: #EDF5E1;
 }
 
-#projectDescription2, #projectDescription4 {
+#projectDescription2 {
   padding-top: 34px;
   padding-right: 400px;
   color: #EDF5E1;
+}
 
+#projectDescription3 {
+   padding-top: 40px;
+  padding-left: 400px;
+  color: #EDF5E1;
+ 
+}
+
+#projectDescription4 {
+  padding-top: 34px;
+  padding-right: 400px;
+  color: #EDF5E1;
 }
 
 h1 {
