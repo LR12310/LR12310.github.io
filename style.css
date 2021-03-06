@@ -72,11 +72,14 @@ p {
 #project3 {
   float: left;
   border-radius: 20px;
+ padding-left: 200px:
 }
 
 #project4 {
   float: right;
   border-radius: 20px;
+  padding-right: 200px;
+
 }
 
 #projectDescription {
