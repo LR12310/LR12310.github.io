@@ -561,6 +561,8 @@ nav {
 }
 
 .games__link {
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-reg);
 }
 
 /* Individual portfolio item styles */
